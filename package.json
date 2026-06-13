@@ -1,0 +1,14 @@
+{
+  "name": "netrasecure-ai-landing-server",
+  "version": "1.0.0",
+  "description": "Express backend for NetraSecure AI Landing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  }
+}
